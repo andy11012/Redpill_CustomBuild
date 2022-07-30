@@ -15,7 +15,7 @@ on:
       platform:
         description: 'DS3615xs DS3617xs DS918+ DS920+ DS3622xs+'
         required: true
-        default: 'DS918+' 
+        default: 'DS920+' 
         type: choice
         options:
         - DS3615xs
